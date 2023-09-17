@@ -1,0 +1,16 @@
+---
+object: set
+id: cd869f42-f58f-4ce3-a79d-7949b514ba52
+code: tm13
+name: Magic 2013 Tokens
+uri: https://api.scryfall.com/sets/cd869f42-f58f-4ce3-a79d-7949b514ba52
+scryfall_uri: https://scryfall.com/sets/tm13
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atm13&unique=prints
+released_at: '2012-07-13'
+set_type: token
+card_count: 11
+parent_set_code: m13
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/m13.svg?1694404800
